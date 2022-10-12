@@ -6,4 +6,4 @@ V projektu máte hotové HTML - všechny značky včetně přidaných tříd, ta
 
 # Jak odevzdat úkol
 
-Návod najdeš v [této prezentaci] (https://drive.google.com/file/d/1SBzqedIkWFw1qm54V1AtGonmdnQYoCvr/view?usp=sharing)
+Návod najdeš v [této prezentaci](https://drive.google.com/file/d/1SBzqedIkWFw1qm54V1AtGonmdnQYoCvr/view?usp=sharing)
