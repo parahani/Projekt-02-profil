@@ -59,7 +59,8 @@ color: white;
 
 }
 
-a:link{text-decoration:none;}
+a:link{text-decoration:none;
+}
 
 .odkazy{
   background-color: #31363b;
@@ -73,7 +74,7 @@ a:link{text-decoration:none;}
   justify-content: space-between;
 }
 
-li:hover{
+li.portfolio:hover{
   background-color: #e74c3c;
 }
 .portfolio{
@@ -88,7 +89,7 @@ li:hover{
 
 }
 
-li:hover{
+li.facebook:hover{
   background-color: #3b5998;
 }
 .facebook{
@@ -96,7 +97,7 @@ li:hover{
   display: flex;
 
 }
-li:hover{
+li.twitter:hover{
   background-color: #1da1f2;
 }
 
