@@ -14,8 +14,93 @@ tlačítko facebook         #3b5998
 tlačítko twitter          #1da1f2
 */
 
-
-body {
+body{
   background-color: #bdc3c7;
+
 }
 
+.profil {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #bdc3c7;
+  width: 320px;
+  padding: 20px 20px;
+}
+
+.hlavicka{
+  position: relative;
+  margin: 0px 0px;
+}
+
+.foto{
+    margin: 0px 0px;
+    max-width: 280px;
+}
+
+.logo{
+  border-radius: 50%;
+  background-color: #b92e81;
+  margin: 0px 0px;
+  position: absolute;
+  right: 20px;
+  top: 140px;
+}
+
+.jmeno{
+font-family: 'Montserrat', sans-serif;
+color: white;
+}
+
+.obsah{
+  background-color: #31363b;
+  padding: 20px 20px;
+  margin: 0px 0px;
+
+}
+
+a:link{text-decoration:none;}
+
+.odkazy{
+  background-color: #31363b;
+  font-family: 'Montserrat', sans-serif;
+  color: #bdc3c7;
+  display: flex;
+  margin: 0 0;
+  padding: 20px 20px 0px 20px;
+  flex-grow: 2;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li:hover{
+  background-color: #e74c3c;
+}
+.portfolio{
+  padding: 10px 10px;
+  margin: 0 0;
+  display: flex;
+  align-content: center;
+  border-color: #3f464d;
+  border-style: solid;
+  border-right: 1px;
+  border-left: 1px;
+
+}
+
+li:hover{
+  background-color: #3b5998;
+}
+.facebook{
+  padding: 10px 10px;
+  display: flex;
+
+}
+li:hover{
+  background-color: #1da1f2;
+}
+
+.twitter{
+  padding: 10px 10px;
+  display: flex;
+ 
+
+}
